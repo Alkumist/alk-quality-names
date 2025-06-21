@@ -1,0 +1,21 @@
+{
+  "name": "alk-quality-names",
+  "version": "1.0.0",
+  "title": "Alkumist's Quality names",
+  "author": "Alkumist",
+	"contact": "",
+	"homepage": "",
+	"description": "Rebrand quality levels with industrial-grade denominations to align with Factorio's mechanical aesthetic.",
+  "factorio_version": "2.0",
+  "dependencies": [
+		"base >= 2.0.0",
+		"quality >= 2.0.0"
+	],
+	"quality_required": true,
+	"rail_bridges_required": false,
+	"space_travel_required": false,
+	"spoiling_required": false,
+	"freezing_required": false,
+	"segmented_units_required": false,
+	"expansion_shaders_required": false
+}
